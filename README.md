@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi👋 I'm Anna, a Data Analyst.
+
+
+I finished TripleTen Israel. It was an interesting journey with 12 real data-based projects. My skills include Python, SQL, Exploratory Data Analysis, Data Visualization, A/B Testing, Machine Learning, Business Analytics.
+
+Currently I keep practicing my new skills.
+
+I love to research, to get new knowledge and to solve interesting tasks.
+
 
 <!--
 **AnnaMogilevskiy/AnnaMogilevskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
