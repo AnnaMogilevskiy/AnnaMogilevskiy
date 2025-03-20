@@ -1,12 +1,20 @@
-### Hi👋 I'm Anna, a Data Analyst.
+Hi there! 👋 I'm Anna, a Data Analyst
+📊 Passionate about uncovering insights from data and transforming raw numbers into meaningful stories.
 
+🎓 Graduate of TripleTen Israel – an exciting journey where I completed 12 real-world data projects covering various aspects of data analysis.
 
-I finished TripleTen Israel. It was an interesting journey with 12 real data-based projects. My skills include Python, SQL, Exploratory Data Analysis, Data Visualization, A/B Testing, Machine Learning, Business Analytics.
+🔍 My Skillset:
 
-Currently I keep practicing my new skills.
+**Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly)<br>
+**Databases:** SQL (PostgreSQL, MySQL)<br>
+**Analytics & Testing:** A/B Testing, Business Analytics<br>
+**Data Exploration:** Exploratory Data Analysis (EDA), Data Cleaning<br>
+**Visualization:** Tableau, Plotly. Matplotlib, Seaborn<br>
+**Machine Learning:** Supervised & Unsupervised models<br>
 
-I love to research, to get new knowledge and to solve interesting tasks.
+🚀 Currently, I am sharpening my skills by working on new projects and exploring advanced analytics techniques.<br>
 
+💡 I love researching, learning new things, and solving complex data challenges.
 
 <!--
 **AnnaMogilevskiy/AnnaMogilevskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
